@@ -1,5 +1,5 @@
 Basic example of a task list using:  <br>
--React  <br>
+-React JS <br>
 -tailwindcss
 
 
