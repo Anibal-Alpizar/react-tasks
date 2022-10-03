@@ -1,4 +1,5 @@
 Basic example of a task list using:  <br>
+-Vitejs
 -React JS <br>
 -tailwindcss
 
